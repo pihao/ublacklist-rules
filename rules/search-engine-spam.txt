@@ -1,5 +1,6 @@
 *://*.51cto.com/*
 *://*.csdn.net/*
+*://*.dev59.com/*
 *://*.zhihu.com/*
 *://cloud.tencent.com/developer/article/*
 *://cloud.tencent.com/developer/ask/*
